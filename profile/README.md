@@ -1,6 +1,6 @@
 # DunkVerse 🌟
 
-DunkVerse is a groundbreaking blockchain-powered application that merges Sports, Betting, Blockchain, AI and Social Media to deliver an unparalleled experience for fans, creators, and collectors. Leveraging Aptos, Sui, and Base blockchains, DunkVerse introduces an innovative platform where fan engagement meets blockchain technology.
+DunkVerse is a groundbreaking blockchain-powered application that merges Sports, Betting, Blockchain, AI and Social Media to deliver an unparalleled experience for fans, creators, and collectors. Leveraging Aptos, Sui, Unichain and Base blockchains, DunkVerse introduces an innovative platform where fan engagement meets blockchain technology.
 
 ---
 
@@ -19,7 +19,8 @@ DunkVerse is a groundbreaking blockchain-powered application that merges Sports,
 - Transactions are powered by **FTO (DunkVerse Token)**, which is equivalent to:
   - 1 SUI  
   - 1 APTOS  
-  - 1 BASE  
+  - 1 BASE
+  - 1 Unichain
 - Simplifies transactions on each chain and promotes ecosystem interoperability.
 
 ### 4. **Decentralized Betting Pool**
@@ -38,7 +39,7 @@ DunkVerse is a groundbreaking blockchain-powered application that merges Sports,
 
 ## Tech Stack 🛠️
 
-- **Blockchain**: Aptos, Sui, Base
+- **Blockchain**: Aptos, Sui, Base, Unichain
 - **Smart Contracts**: Solidity, Move
 - **Decentralized Storage**: Pinata, IPFS
 - **Frontend**: React.js, TypeScript, TailwindCSS
