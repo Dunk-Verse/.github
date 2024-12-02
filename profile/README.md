@@ -32,6 +32,9 @@ DunkVerse is a groundbreaking blockchain-powered application that merges Sports,
 - View the average market value of NFTs on the platform.
 
 ---
+## Under the Hood
+
+![Screenshot 2024-12-02 071628](https://github.com/user-attachments/assets/25bf5f49-eb28-4b75-80e3-7377fbc8c3bb)
 
 ## Tech Stack 🛠️
 
